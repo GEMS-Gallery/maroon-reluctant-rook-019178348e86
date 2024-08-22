@@ -1,0 +1,3 @@
+service : {
+  search: (text) -> (text) query;
+}
